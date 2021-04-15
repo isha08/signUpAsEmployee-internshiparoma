@@ -1,0 +1,50 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color:black;
+}
+.row{
+  background-color:white;
+  border-radius: 20px;
+}
+button{
+  margin: 0 auto;
+  width: 100px;
+  height: 36px;
+  border-radius: 30px;
+  font-size: 15px;
+
+}
+.pic{
+  margin-top: 20px;
+border-radius:20px;
+}
+h1{
+  margin-top: 20px;
+}
+.form1{
+  margin-top:40px;
+  margin-bottom: 20px
+}
+.form2{
+  margin-bottom:20px;
+}
+.form-control{
+  border: none;
+  border-bottom: 1px solid #9e9d89;
+}
+.foot{
+  margin-top: 50px;
+}
+.social-icon{
+  margin:20px 10px;
+}
+.std{
+  margin-top:10px;
+}
+a{
+  text-decoration: none;
+}
